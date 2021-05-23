@@ -6,6 +6,7 @@ function sumOfDigits($num){
         $sum = $sum + $digit;
         $num = $num/10;
     }
+    
     return $sum;
 }
 ?>
