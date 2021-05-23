@@ -5,4 +5,4 @@ function powerofTow($num){
     else
     echo "$num is not power of 2";
 }
-?>
+?>  
